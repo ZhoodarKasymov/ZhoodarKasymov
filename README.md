@@ -1,4 +1,4 @@
-- 👋 Hi, I’m a C# Full Stack developer with industry experience building websites and web applications. I specialize in C# and have professional experience working with JavaScript, TypeScript and React. I also have experience working with Vue, Python(django).
+- 👋 Hi, I am a C# Full Stack Developer with industry experience building websites and web applications over 5 years. I specialize in C#/.NET and also have professional experience working with JavaScript, TypeScript and React.
 - 📫 How to reach me zhoodar.kasymov@gmail.com, https://t.me/ZhoodarKasymov
 
 <!---
